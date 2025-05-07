@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "1st post",
+      "datetime": "July 16, 2021 11:47:39 AM",
+      "body": "This is a sample post describing how people work hard and take breaks. It talks about how we should be careful and avoid trouble, and how people sometimes do wrong things without meaning to."
+    },
+    {
+      "id": "2",
+      "title": "Second post",
+      "datetime": "July 16, 2021 11:47:48 AM",
+      "body": "This post also talks about working hard and taking time to relax. It mentions how we must be responsible and avoid problems. This is the second post."
+    },
+    {
+      "id": "3",
+      "title": "Number Three",
+      "datetime": "July 16, 2021 11:48:01 AM",
+      "body": "This is the third post. It continues the theme of working, resting, and being careful in life. It reminds us to avoid doing things that can cause harm to others or ourselves."
+    },
+    {
+      "id": "4",
+      "title": "Testing a 4th post",
+      "datetime": "August 02, 2021 11:46:27 AM",
+      "body": "Just testing more paragraphs for checking how the posts work."
+    },
+    {
+      "id": "5",
+      "title": "5th post",
+      "datetime": "July 16, 2021 11:47:39 AM",
+      "body": "This is a sample post describing how people work hard and take breaks. It talks about how we should be careful and avoid trouble, and how people sometimes do wrong things without meaning to."
+    },
+    {
+      "id": "5",
+      "title": "5th post",
+      "datetime": "July 16, 2021 11:47:39 AM",
+      "body": "This is a sample post describing how people work hard and take breaks. It talks about how we should be careful and avoid trouble, and how people sometimes do wrong things without meaning to."
+    }
+  ]
+}
